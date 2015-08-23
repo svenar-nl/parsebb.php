@@ -1,7 +1,4 @@
 <?php
-
-
-
 class markup{
 	public $bb = '';
 	function __construct() {

@@ -4,8 +4,8 @@
 
 class markup{
 	public $bb = '';
-	function __construct( $value ) {
-		$this->bb = $value;
+	function __construct() {
+		$this->bb = '';
 	}
 	function parseBB($value) {
 		$search = array(
